@@ -1,0 +1,26 @@
+@media (max-width:800px)
+{
+    .header{
+        flex-direction: column-reverse;
+    }
+    .menu{
+        flex-direction: column;
+    }
+    .header-text div{
+        text-align: center;
+    }
+    .logo{
+        text-align: center;
+    }
+    nav>ul{
+        width: 100%;
+    }
+    .content{
+        margin: 10px;
+    }
+    .footer{
+        margin-top: 10px;
+    }
+
+
+}
